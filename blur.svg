@@ -5,7 +5,7 @@
 <defs>
 <filter id="filter0_f" x="-34.7305" y="0.26947" width="888.081" height="888.081" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur"/>
 </filter>
 <linearGradient id="paint0_linear" x1="409.31" y1="200.31" x2="409.31" y2="688.31" gradientUnits="userSpaceOnUse">
